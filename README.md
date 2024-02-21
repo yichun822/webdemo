@@ -1,3 +1,3 @@
 # 一个网页
 
-> [steam官网](https://store.steampowered.com/)
+> [bing官网](https://www.bing.com/)
