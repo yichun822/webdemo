@@ -1,2 +1,3 @@
 - [首页](./)
 - [求实的流水线](./bad_thing/README.md)
+- [班会](./banhui.md)
